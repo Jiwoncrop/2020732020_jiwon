@@ -12,4 +12,6 @@ test basic repository functions
 
 ### 해당 부분은 Collaborator Nam Gi Young_2020732021 에 의해 수정된 부분입니다.
 
-### 해당 부분은 Collaborator Nam Gi Young_2020732021 에 의해 Branch 01에서 추가된 부분입니다..
+### 해당 부분은 Collaborator Nam Gi Young_2020732021 에 의해 Branch 01에서 추가된 부분입니다.
+
+### 학번과 이름이 포함된 새로운 branch 생성 후 다시 진행하였습니다.
